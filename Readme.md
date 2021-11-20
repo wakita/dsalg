@@ -1,6 +1,8 @@
-## Data Structures and Algorithms
+## プログラミング第一外伝（データ構造とアルゴリズム）
 
-# On macOS
+五十嵐健夫先生の「データ構造とアルゴリズム」を参考にして Scala 3 にて、
+
+# macOS での環境構築
 
 ~~~ {.sh}
 # brew install openjdk@11 sbt
